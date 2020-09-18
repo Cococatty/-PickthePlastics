@@ -1,1 +1,1 @@
-# -PickthePlastics
+# PickthePlastics
